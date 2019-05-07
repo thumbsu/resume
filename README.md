@@ -1,6 +1,8 @@
 # Resume 2019.5
 
 ### 엄지수
+<img src="./static/profile.jpeg" width="100px">
+
 ---
 JavaScript과 python을 좋아하고 TypeScript에 관심이 많습니다. 배움에 종목을 가리지 않아 프론트, 백 상관없이 주어진 일에 최선을 다하지만 최근에는 프론트에 좀더 집중하고 있습니다. 깔끔하고 간결한 코드와 가독성 좋은 코드의 아슬아슬한 줄타기를 즐깁니다.
 
