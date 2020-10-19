@@ -44,24 +44,33 @@
 - 소속회사명: 마켓잇
 - 기간: 2020.9 - 2020.9
 - 주사용기술: React Native
-- 프로젝트 소개 및 수행 역할:
-  - 프로젝트의 규모와 여러 사람의 손을 거쳐간 코드가 많아 유지보수가 어려운 점을 보완하기 위해 Typescript를 도입했습니다. 기존 코드 양이 워낙 많아 점진적 도입이 가능하도록 하였고 ESLint도 이에 맞게 parser를 분리하였습니다.
+- 프로젝트 소개: 프로젝트의 규모와 여러 사람의 손을 거쳐간 코드가 많아 유지보수가 어려운 점을 보완하기 위해 Typescript를 도입했습니다. 기존 코드 양이 워낙 많아 점진적 도입이 가능하도록 하였고 ESLint도 이에 맞게 parser를 분리하였습니다.
+- 수행 역할:
+  - typescript config 작성
+  - ESLint의 parser 분리
+  - 일부 screen component, store, 공통 component ts 변환
 
 ### ESLint, prettier 적용
 
 - 소속회사명: 마켓잇
 - 기간: 2020.8 - 2020.8
 - 주사용기술: React Native
-- 프로젝트 소개 및 수행 역할:
-  - ESLint, prettier가 적용되지 않아 수정할때마다 불필요한 포맷팅 diff가 생기고 사람마다 기준이 달라서 협 의 후 ESLint와 prettier를 적용했고, huskey와 lint-staged를 사용해 커밋 푸시 전 적용되도록 처리했습 니다.
+- 프로젝트 소개: ESLint, prettier가 적용되지 않아 수정할 때마다 불필요한 포맷팅 diff가 생기고 사람마다 기준이 달라서 협 의 후 ESLint와 prettier를 적용했고, husky와 lint-staged를 사용해 커밋 푸시 전 적용되도록 처리했습니다.
+- 수행 역할:
+  - ESLint config rule 작성
+  - prettier 적용
+  - sort-import 적용
+  - husky와 lint-staged를 사용하여 커밋 푸시 전 rule에 맞게 변환되도록 처리
 
 ### React Native 버전 업그레이드
 
 - 소속회사명: 마켓잇
 - 기간: 2020.9 - 2020.10
 - 주사용기술: React Native
-- 프로젝트 소개 및 수행 역할:
-  - iOS14 업데이트 후 사용중이던 React Native 0.61 버전에서 이미지가 보이지 않는 문제가 발생하였고, 이 문제가 0.63 버전에서 해결되었기 때문에 업데이트를 진행하였습니다.
+- 프로젝트 소개: iOS14 업데이트 후 사용중이던 React Native 0.61 버전에서 이미지가 보이지 않는 문제가 발생하였고, 이 문제가 0.63 버전에서 해결되었기 때문에 업데이트를 진행하였습니다.
+- 수행 역할:
+  - React Native 0.61.2에서 0.63 버전으로 업데이트
+  - 업데이트 진행 중 발생한 build error 처리
 
 ### 번역 플랫폼 프론트 제작
 
