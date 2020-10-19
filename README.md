@@ -5,10 +5,13 @@
 
 ---
 
-안녕하세요, 엄지수 입니다.
-Javascript와 Python을 이용해 웹, 모바일 앱 등 여러가지 개발을 하고 있는 엄지수 입니다. 주 언어는 Javascript이며 Typescript에 대한 경험이 있습니다.
+안녕하세요, 엄지수 입니다. Javascript와 Python을 이용해 웹, 모바일 앱 등 여러가지 개발을 하고 있습니다.
+
+주 언어는 Javascript이며 Typescript에 대한 경험이 있습니다.
 프론트엔드 쪽으로는 Angular, Vue(Vue.js, Nuxt.js)를 사용하여 개발한 경험이 있고, React Native를 사용하여 안드 로이드와 iOS 앱을 개발한 경험이 있습니다.
 그 외로 백엔드는 Python은 Flask을 사용하여 REST API를 만드는 등의 업무를 한 경험이 있습니다.
+
+
 전반적인 비지니스 로직을 구현하는데에는 어려움이 없고, 프로젝트 전체를 바라보고 설계할 수 있는 실력을 키우기 위해 서 노력하고 있습니다.
 
 ## 경력
