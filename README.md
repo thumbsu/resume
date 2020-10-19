@@ -9,7 +9,7 @@
 
 
 주 언어는 Javascript이며 Typescript에 대한 경험이 있습니다.
-프론트엔드 쪽으로는 Angular, Vue(Vue.js, Nuxt.js)를 사용하여 개발한 경험이 있고, React Native를 사용하여 안드 로이드와 iOS 앱을 개발한 경험이 있습니다.
+프론트엔드 쪽으로는 Angular, Vue(Vue.js, Nuxt.js)를 사용하여 개발한 경험이 있고, React Native를 사용하여 안드로이드와 iOS 앱을 개발한 경험이 있습니다.
 그 외로 백엔드는 Python은 Flask을 사용하여 REST API를 만드는 등의 업무를 한 경험이 있습니다.
 
 
