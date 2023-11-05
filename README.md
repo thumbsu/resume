@@ -1,8 +1,6 @@
 # Resume 2021.9
 
 ### [엄지수](https://thumbsu.dev/)
-<img src="./static/profile.jpeg" width="100px">
-
 ---
 
 안녕하세요, 5년차 프론트엔드 개발자 엄지수 입니다.
